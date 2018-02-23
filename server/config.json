@@ -1,0 +1,12 @@
+{
+  "auth": {
+    "user": "admin",
+    "password": "password"
+  },
+  "registry": {
+    "url": "localhost",
+    "user": "admin",
+    "password": "password"
+  },
+  "blacklist": []
+}
